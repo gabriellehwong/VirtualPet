@@ -10,8 +10,8 @@ void draw(){
 
   ellipse(200,200,250,200);
 
-  ellipse(100,100,50,50);
-  ellipse(300,100,50,50);
+  ellipse(125,125,50,50);
+  ellipse(275,125,50,50);
 
   fill(0);
   ellipse(155, 185, 25, 25);
@@ -23,6 +23,7 @@ void draw(){
   fill(0);
   ellipse(200, 230, 35, 25);
 
+  stroke()
   line(200, 242, 185, 255);
   line(200, 242, 215, 255);
 }
