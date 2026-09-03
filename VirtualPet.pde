@@ -23,7 +23,7 @@ void draw(){
   fill(0);
   ellipse(200, 230, 35, 25);
 
-  stroke(0)
+  stroke(0);
   line(200, 242, 185, 255);
   line(200, 242, 215, 255);
 }
